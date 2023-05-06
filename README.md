@@ -1,1 +1,2 @@
 # staticFrontend
+TEST
