@@ -1,1 +1,1 @@
-# geeksHubs_StaticFrontend ADD
+# staticFrontend
