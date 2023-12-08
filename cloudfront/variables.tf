@@ -61,7 +61,7 @@ variable "dns_zone_id" {
 
 variable "environment" {
   type    = string
-  default = "dev"
+  default = "prod"
 }
 variable "project" {
   type    = string
