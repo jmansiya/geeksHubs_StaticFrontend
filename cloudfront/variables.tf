@@ -72,7 +72,7 @@ variable "technology" {
   default = "Cloudfront"
 }
 variable "creator" {
-  default = "DevOps Team"
+  default = "DevOps Team Prueba"
 }
 variable "terraform" {
   default = "True"
